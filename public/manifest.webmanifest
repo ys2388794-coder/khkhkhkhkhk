@@ -1,0 +1,20 @@
+{
+  "name": "وصّل — رادار الهوية الرقمية والسوشيال ميديا",
+  "short_name": "وصّل رادار",
+  "description": "البحث الذكي عن الأشخاص عبر إنستغرام وتيك توك وفيسبوك ويوتيوب بالصورة والاسم والمنطقة والعمر مع كشف الحسابات الفيك",
+  "start_url": "/",
+  "display": "standalone",
+  "dir": "rtl",
+  "lang": "ar",
+  "background_color": "#070b14",
+  "theme_color": "#06b6d4",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icons/app-icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
